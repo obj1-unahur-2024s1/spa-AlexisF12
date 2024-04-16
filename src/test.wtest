@@ -1,0 +1,6 @@
+import spa.*
+test "tesSpa" {
+	spa.atender(olivia)
+	assert.that(olivia.gradoDeConcentracion()==19)
+
+}
